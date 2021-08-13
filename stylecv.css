@@ -1,0 +1,76 @@
+.container{
+    display: flex;
+    flex-direction: vertical;
+    justify-content: space-between;
+    background-color: silver;
+    margin-top: 30px;
+    background-color:black;
+    
+}
+body{
+    background-color:orangered;
+    font-size: 1.3em;
+}
+
+.maphoto{
+    border-radius: 50%;
+
+width: 200px
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid orangered;
+    flex-basis: 25%;
+    flex-grow: inherit;
+    
+}
+h1{
+   
+    text-align: center;
+    color: orangered;
+    background-color:black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px; 
+
+    }
+    
+
+   .para{
+       color:orangered;
+       text-align: center;
+       font-size: 23px;
+       background-color: black;
+   } 
+    
+ 
+
+    section > h2{
+        color: orangered;
+        
+            
+        }
+
+
+    
+    button{
+        margin-top: 50px;
+        color: orangered;
+        background-color: black;
+        font-size: 25px; 
+    }
+    b{
+        color: orangered;
+       
+}
+p{
+    color: orangered;
+}
+
+
+    
+   
